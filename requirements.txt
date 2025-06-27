@@ -1,0 +1,7 @@
+streamlit==1.33.0
+transformers==4.41.2
+torch==2.3.0
+torchaudio==2.3.0
+plotly==5.22.0
+soundfile==0.12.1  # Replacement for PyDub
+librosa==0.10.1    # For audio processing
